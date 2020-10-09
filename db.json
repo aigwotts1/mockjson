@@ -1,5 +1,5 @@
   [{
-  "Id": "AbhinavBook",
+  
   "name":"THAT MIDDAY FEELING",
   "author": "AIG WOTTS",
   "ratings": "4.5",
@@ -7,7 +7,7 @@
   "image": "R.drawable.thatmidday"
     },
     {
-  "Id": "AbhinavBook",
+  
   "name":"Kasauli",
   "author": "AIG WOTTS",
   "ratings": "4.5",
@@ -15,7 +15,7 @@
   "image": "R.drawable.kasauli"
     },
     {
-  "Id": "AbhinavBook",
+  
   "name":"Sabotage the Hate AMONG US",
   "author": "AIG WOTTS",
   "ratings": "4.5",
@@ -23,7 +23,7 @@
   "image": "R.drawable.sabotage"
     },
     {
-  "Id": "AbhinavBook",
+  
   "name":"Love Birds",
   "author": "AIG WOTTS",
   "ratings": "4.5",
@@ -31,7 +31,7 @@
   "image": "R.drawable.birds"
     },
     {
-  "Id": "AbhinavBook",
+ 
   "name":"Train",
   "author": "AIG WOTTS",
   "ratings": "4.5",
@@ -39,7 +39,7 @@
   "image": "R.drawable.train"
     },
     {
-  "Id": "AbhinavBook",
+ 
   "name":"Grass",
   "author": "AIG WOTTS",
   "ratings": "4.5",
@@ -47,7 +47,7 @@
   "image": "R.drawable.grass"
     },
     {
-  "Id": "AbhinavBook",
+  
   "name":"PKKA MAT",
   "author": "AIG WOTTS",
   "ratings": "4.5",
@@ -55,7 +55,7 @@
   "image": "R.drawable.pkkamat"
     },
     {
-  "Id": "AbhinavBook",
+  
   "name":"Billu",
   "author": "AIG WOTTS",
   "ratings": "4.5",
@@ -63,7 +63,7 @@
   "image": "R.drawable.billu"
     },
     {
-  "Id": "AbhinavBook",
+  
   "name":"Kidu",
   "author": "AIG WOTTS",
   "ratings": "4.5",
@@ -71,7 +71,7 @@
   "image": "R.drawable.kidu"
     }, 
     {
-  "Id": "AbhinavBook",
+  
   "name":"Friday Special",
   "author": "AIG WOTTS",
   "ratings": "4.5",
